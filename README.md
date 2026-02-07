@@ -73,15 +73,6 @@ Backend estruturado com Django REST Framework, seguindo boas práticas e arquite
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WillSantana&show_icons=true&theme=tokyonight&locale=pt-br">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillSantana&layout=compact&locale=pt-br">
-</div>
-
----
-
 ## 💬 Frase que me define
 
 > "Transformando café ☕ em código desde sempre."
