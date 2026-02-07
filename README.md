@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Wilson Santana 🎲  
 
 💻 Desenvolvedor **Full Stack** focado em aplicações web modernas  
-🚀 Construindo sistemas completos com **React + Django**  
+🚀 Construindo sistemas completos com React + Django  
 📚 Sempre estudando arquitetura, APIs REST e boas práticas  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willjsantana21/)  
@@ -54,6 +54,13 @@ Gosto de trabalhar desde a modelagem do banco até a interface do usuário, cria
 ---
 
 ## 📌 Projetos em destaque
+
+🏛️ **Criação do Site da Prefeitura Municipal**  
+Desenvolvimento completo do portal institucional da prefeitura local, com foco em transparência, acesso à informação e serviços ao cidadão.  
+🔹 Estrutura moderna e responsiva  
+🔹 Organização de notícias, secretarias e serviços públicos  
+🔹 Painel administrativo para gerenciamento de conteúdo  
+🔹 Backend estruturado para futuras integrações de sistemas  
 
 🛒 **Sistema de Controle de Estoque**  
 Aplicação completa com Django no backend e React no frontend, incluindo autenticação, filtros, exportações e dashboard.
